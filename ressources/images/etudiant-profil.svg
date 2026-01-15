@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <rect width="150" height="150" fill="#e7f2e7" />
+  <circle cx="75" cy="55" r="28" fill="#b6d5b6" />
+  <rect x="35" y="90" width="80" height="40" rx="20" fill="#b6d5b6" />
+  <text x="75" y="140" font-size="12" text-anchor="middle" fill="#4b6a4b">Étudiant</text>
+</svg>
