@@ -132,6 +132,15 @@ body {
   animation: pulse 1.6s ease-in-out infinite;
 }
 
+.placeholder {
+  display: inline-block;
+  padding: 2px 8px;
+  background-color: #fef3c7;
+  color: #7a5a00;
+  border-radius: 10px;
+  font-style: italic;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;
